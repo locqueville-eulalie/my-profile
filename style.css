@@ -19,8 +19,8 @@ h1,h2 {text-align: center;
 
 #logo { width: 200px }
 .img-circle {
-	width: 100px;
-border-radius: 10px;
+	width: 150px;
+border-radius: 50%;
 }
 
 div {
